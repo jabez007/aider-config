@@ -1,0 +1,12 @@
+{
+  "lm_studio/deepseek-coder-v2-lite-instruct": {
+    "max_tokens": 32768,
+    "max_input_tokens": 32768,
+    "max_output_tokens": 8192,
+    "input_cost_per_token": 0.0,
+    "output_cost_per_token": 0.0,
+    "litellm_provider": "lm_studio",
+    "mode": "chat",
+    "supports_function_calling": true
+  }
+}

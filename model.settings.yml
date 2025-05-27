@@ -1,0 +1,8 @@
+- name: lm_studio/deepseek-coder-v2-lite-instruct
+  edit_format: diff
+  use_repo_map: true
+  reminder: sys
+  examples_as_sys_msg: true
+  extra_params:
+    max_tokens: 8192
+  caches_by_default: true
